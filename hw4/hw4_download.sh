@@ -1,0 +1,1 @@
+gdown 1-Ae1el8vK98IT3YkB9FRZIu_UEcJlwNq -O nerf_pl_model.ckpt
